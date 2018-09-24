@@ -1,0 +1,13 @@
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.CurrentConditionsDisplay.resources
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.ForecastDisplay.resources
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.Properties.Resources.resources
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.StatisticsDisplay.resources
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.WeatherData.resources
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\tutorial5\tutorial5\bin\Debug\tutorial5.exe.config
+C:\Users\Levi\source\repos\tutorial5\tutorial5\bin\Debug\tutorial5.exe
+C:\Users\Levi\source\repos\tutorial5\tutorial5\bin\Debug\tutorial5.pdb
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.exe
+C:\Users\Levi\source\repos\tutorial5\tutorial5\obj\Debug\tutorial5.pdb
